@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "compare": "cpp",
+        "cstdint": "cpp",
+        "array": "cpp",
+        "charconv": "cpp",
+        "functional": "cpp",
+        "ratio": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "variant": "cpp"
+    }
+}
